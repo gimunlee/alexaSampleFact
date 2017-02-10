@@ -46,7 +46,8 @@ var languageStrings = {
             ],
             "SKILL_NAME" : "American Space Facts",
             "GET_FACT_MESSAGE" : "Here's your fact: ",
-            "HELP_MESSAGE" : "You can say tell me a space fact, or, you can say exit... What can I help you with?",
+            // "HELP_MESSAGE" : "You can say tell me a space fact, or, you can say exit... What can I help you with?",
+            "HELP_MESSAGE" : "This is Gimun Trivia skill. Good job",
             "HELP_REPROMPT" : "What can I help you with?",
             "STOP_MESSAGE" : "Goodbye!"
         }
