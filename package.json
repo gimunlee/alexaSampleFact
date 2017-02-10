@@ -1,0 +1,27 @@
+{
+  "name": "alexasamplefact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "alexa",
+    "skill",
+    "fact"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gimunlee/alexaSampleFact.git"
+  },
+  "author": "Gimun Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gimunlee/alexaSampleFact/issues"
+  },
+  "homepage": "https://github.com/gimunlee/alexaSampleFact#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.6"
+  }
+}
